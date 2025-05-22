@@ -13,7 +13,7 @@ This project is an interactive AI chatbot built using **FastAPI**, **LangGraph**
 ---
 
 
-![alt text](image.png)
+![alt text](https://github.com/was-siri-us/AI-Agent-Using-Langraph/blob/master/output.png)
 ## 📦 Project Structure
 
 ```
