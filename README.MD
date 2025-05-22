@@ -13,6 +13,7 @@ This project is an interactive AI chatbot built using **FastAPI**, **LangGraph**
 ---
 
 
+![alt text](image.png)
 ## 📦 Project Structure
 
 ```
