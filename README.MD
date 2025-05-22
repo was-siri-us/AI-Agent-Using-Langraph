@@ -17,8 +17,8 @@ This project is an interactive AI chatbot built using **FastAPI**, **LangGraph**
 ```
 .
 ├── agent.py             # Core LangGraph agent logic and tool integrations
-├── main.py              # FastAPI app exposing /chat endpoint
-├── ui.py                # Streamlit UI for user interaction
+├── server.py              # FastAPI app exposing /chat endpoint
+├── frontend.py                # Streamlit UI for user interaction
 ├── README.md            # Project documentation
 ```
 
@@ -29,8 +29,8 @@ This project is an interactive AI chatbot built using **FastAPI**, **LangGraph**
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ai-agent-chatbot.git
-cd ai-agent-chatbot
+git clone git@github.com:was-siri-us/AI-Agent-Using-Langraph.git
+cd AI-Agent-Using-Langraph.git
 ```
 
 ### 2. Create and Activate a Virtual Environment
